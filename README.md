@@ -27,16 +27,17 @@ Good morning everyone, i'm Cyrille, a 35 years future full-stack developer. I'm 
 ---
 
 ### Languages
-
+<p align="center">
 <img src="https://github.com/Cissou13/Cissou13/blob/main/assets/svg/dev/languages/html.svg" alt="js" style="vertical-align:top; margin:4px">
 <img src="https://github.com/Cissou13/Cissou13/blob/main/assets/svg/dev/languages/js.svg" alt="js" style="vertical-align:top; margin:4px">
-
+</p>
 
 ### 😄💻 Frameworks & Libs
-
+<p align="center">
 <img src="https://github.com/Cissou13/Cissou13/blob/main/assets/svg/dev/frameworks/react.svg" alt="js" style="vertical-align:top; margin:4px">
 ![Nodejs](https://img.shields.io/badge/-NodeJs-fff?&logo=node.js)
 ![MySQL](https://img.shields.io/badge/-MySQL-fff?&logo=MySQL)
+ </p>
 
 
 ### 🔧 TOOLS
