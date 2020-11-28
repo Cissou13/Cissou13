@@ -58,9 +58,9 @@ Good morning everyone, i'm Cyrille, a 35 years future full-stack developer. I'm 
  <h3 align="center"> :lock: Back-end :lock: </h3>
 &nbsp;
  <p align="center">
-  <img src="https://img.shields.io/badge/MySQL-00000F?style=plastic&logo=mysql&logoColor=white" alt="mySql" style="vertical-align:top; margin:4px" />
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=plastic&logo=node.js&logoColor=white" alt="NodeJs" style="vertical-align:top; margin:4px" />
   <img src="https://img.shields.io/badge/React_Router-CA4245?style=plastic&logo=react-router&logoColor=white" alt="react-router" style="vertical-align:top; margin:4px" />
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=plastic&logo=node.js&logoColor=white" alt="NodeJs" style="vertical-align:top; margin:4px" />
+  <img src="https://img.shields.io/badge/MySQL-00000F?style=plastic&logo=mysql&logoColor=white" alt="mySql" style="vertical-align:top; margin:4px" /> 
 
  </p>
  
