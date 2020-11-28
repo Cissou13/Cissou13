@@ -27,15 +27,19 @@ Good morning everyone, i'm Cyrille, a 35 years future full-stack developer. I'm 
 ---
 
 ### Languages
-<p align="center">
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5" style="vertical-align:top; margin:4px" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3" style="vertical-align:top; margin:4px" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="js" style="vertical-align:top; margin:4px" />
 
-
+ <h2 align="center"> :computer: Front-end :computer: </h2>
+ <p align="left">
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=plasticlogo=html5&logoColor=white" alt="html5" style="vertical-align:top; margin:4px" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=plasticlogo=css3&logoColor=white" alt="css3" style="vertical-align:top; margin:4px" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=javascript&logoColor=black" alt="js" style="vertical-align:top; margin:4px" />
 </p>
+<p align="right">
+ 
+ <h2 align="center"> :computer: Back-end :computer: </h2>
+ </p>
 
-### 😄💻 Frameworks & Libs
+### :clapper: Frameworks & Libs :clapper:
 
 <p align="center">
 <img src="https://img.shields.io/badge/React-20232A?style=plastic&logo=react&logoColor=61DAFB" alt="react" style="vertical-align:top; margin:4px" />
