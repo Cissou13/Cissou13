@@ -28,16 +28,22 @@ Good morning everyone, i'm Cyrille, a 35 years future full-stack developer. I'm 
 
 ### Languages
 <p align="center">
-<img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" alt="html" style="vertical-align:top; margin:4px" />
-<img src="https://github.com/Cissou13/Cissou13/blob/main/assets/svg/dev/languages/html.svg" alt="js" style="vertical-align:top; margin:4px">
-<img src="https://github.com/Cissou13/Cissou13/blob/main/assets/svg/dev/languages/js.svg" alt="js" style="vertical-align:top; margin:4px">
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5" style="vertical-align:top; margin:4px" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3" style="vertical-align:top; margin:4px" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="js" style="vertical-align:top; margin:4px" />
+
+
 </p>
 
 ### 😄💻 Frameworks & Libs
 
-![Reactjs](https://img.shields.io/badge/-React-fff?&logo=react.js)
-![Nodejs](https://img.shields.io/badge/-NodeJs-fff?&logo=node.js)
-![MySQL](https://img.shields.io/badge/-MySQL-fff?&logo=MySQL)
+<p align="center">
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react" style="vertical-align:top; margin:4px" />
+<img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" alt="react-router" style="vertical-align:top; margin:4px" />
+<img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white
+" alt="mySql" style="vertical-align:top; margin:4px" />
+
+ </p>
 
 
 
