@@ -25,7 +25,10 @@ Here are some ideas to get you started:
 &nbsp;
 
 Good morning everyone, i'm Cyrille, a 35 years future full-stack developer. I'm currently on a Wild Code School Dev course, and i'm looking for a full-time job from Frebruary 2021,the 12th <br/>
-.
+
+<h4 align="center"> Reach Me </h4>
+<a align="center" href="https://www.linkedin.com/in/cyrille-fabre/" rel="nofollow" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-00000F?style=plastic&logo=LinkedIn&logoColor=white" alt="LinkedIn" style="vertical-align:top; margin:4px" /> </a>
 
 ---
 
@@ -91,8 +94,6 @@ Good morning everyone, i'm Cyrille, a 35 years future full-stack developer. I'm 
 
 
    &emsp;
-  <a align="center" href="https://www.linkedin.com/in/cyrille-fabre/" rel="nofollow" target="_blank" >
-  </a>
 
 
 ![image](https://github.com/Cissou13/Cissou13/blob/main/dino.gif)
