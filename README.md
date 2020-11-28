@@ -36,8 +36,6 @@ Good morning everyone, i'm Cyrille, a 35 years future full-stack developer. I'm 
 
  
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Cissou13)
-
----
 [![Umair's github stats](https://github-readme-stats.vercel.app/api?username=Cissou13&show_icons=true&line_height=21&show_icons=true&theme=vue)](https://github.com/Cissou13/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cissou13&show_icons=true&layout=compact&theme=vue)](https://github.com/Cissou13/github-readme-stats)
 
