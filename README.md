@@ -19,7 +19,15 @@ Here are some ideas to get you started:
 
 <br/>
 
-### Some stats
+
+<h1 align="center"> 📖 About me : </h1>
+
+Good morning everyone, i'm Cyrille, a 35 years future full-stack developer. I'm currently on a Wild Code School Dev course, and i'm looking for a full-time job from Frebruary 2021,the 12th <br/>
+.
+
+---
+
+<h4 align="center"> Some stats </h4>
 
  
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Cissou13)
@@ -29,29 +37,30 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cissou13&show_icons=true&layout=compact&theme=vue)](https://github.com/Cissou13/github-readme-stats)
 
 
-## 📖 About me :
-
-Good morning everyone, i'm Cyrille, a 35 years future full-stack developer. I'm currently on a Wild Code School Dev course, and i'm looking for a full-time job from Frebruary 2021,the 12th <br/>
-.
 
 ---
 
-## :books: Languages :books:
+<h2 align="center"> :books: Languages :books: </h2>
+
+&nbsp;
 
  <h3 align="center"> :art: Front-end :art: </h3>
+&nbsp;
  <p align="center">
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=plasticlogo=html5&logoColor=white" alt="html5" style="vertical-align:top; margin:4px" />
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=plasticlogo=css3&logoColor=white" alt="css3" style="vertical-align:top; margin:4px" />
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=javascript&logoColor=black" alt="js" style="vertical-align:top; margin:4px" />
  </p>
+ 
  <h3 align="center"> :lock: Back-end :lock: </h3>
+&nbsp;
  <p align="center">
  <img src="https://img.shields.io/badge/MySQL-00000F?style=plastic&logo=mysql&logoColor=white" alt="mySql" style="vertical-align:top; margin:4px" />
   <img src="https://img.shields.io/badge/Node.js-43853D?style=plastic&logo=node.js&logoColor=white" alt="NodeJs" style="vertical-align:top; margin:4px" />
 
  </p>
 
-## :clapper: Frameworks & Libs :clapper:
+<h2 align="center"> :clapper: Frameworks & Libs :clapper: </h2>
 
 <p align="center">
 <img src="https://img.shields.io/badge/React-20232A?style=plastic&logo=react&logoColor=61DAFB" alt="react" style="vertical-align:top; margin:4px" />
@@ -62,7 +71,7 @@ Good morning everyone, i'm Cyrille, a 35 years future full-stack developer. I'm 
 
 
 
-### 🔧 TOOLS
+<h2 align="center"> 🔧 TOOLS </h2>
 
 ![VSCode](https://img.shields.io/badge/-VSCode-fff?&logo=Visual-studio-code&logoColor=007ACC)
 ![Github](https://img.shields.io/badge/-Github-fff?&logo=Github&logoColor=181717)
