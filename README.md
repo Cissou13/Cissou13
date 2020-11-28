@@ -31,7 +31,7 @@ Good morning everyone, i'm Cyrille, a 35 years future full-stack developer. I'm 
 
 ![HTML](https://img.shields.io/badge/-HTML5-fff?&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS-fff?&logo=CSS3&logoColor=1572B6)
-![JavaScript](https://img.shields.io/badge/-JavaScript-fff?&logo=JavaScript&logoColor=ddc508)]
+![JavaScript](https://img.shields.io/badge/-JavaScript-fff?&logo=JavaScript&logoColor=ddc508)
 
 
 
