@@ -38,9 +38,9 @@ Good morning everyone, i'm Cyrille, a 35 years future full-stack developer. I'm 
 ### 😄💻 Frameworks & Libs
 
 <p align="center">
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react" style="vertical-align:top; margin:4px" />
-<img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" alt="react-router" style="vertical-align:top; margin:4px" />
-<img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="mySql" style="vertical-align:top; margin:4px" />
+<img src="https://img.shields.io/badge/React-20232A?style=plastic&logo=react&logoColor=61DAFB" alt="react" style="vertical-align:top; margin:4px" />
+<img src="https://img.shields.io/badge/React_Router-CA4245?style=plastic&logo=react-router&logoColor=white" alt="react-router" style="vertical-align:top; margin:4px" />
+<img src="https://img.shields.io/badge/MySQL-00000F?style=plastic&logo=mysql&logoColor=white" alt="mySql" style="vertical-align:top; margin:4px" />
 
  </p>
 
@@ -52,7 +52,7 @@ Good morning everyone, i'm Cyrille, a 35 years future full-stack developer. I'm 
 ![Github](https://img.shields.io/badge/-Github-fff?&logo=Github&logoColor=181717)
 ![Postman](https://img.shields.io/badge/-Postman-fff?&logo=Postman)
 ![Figma](https://img.shields.io/badge/-Figma-fff?&logo=Figma)
-
+ <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
 ---
 [![Umair's github stats](https://github-readme-stats.vercel.app/api?username=Cissou13&show_icons=true&line_height=21&show_icons=true&theme=vue)](https://github.com/Cissou13/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cissou13&show_icons=true&layout=compact&theme=vue)](https://github.com/Cissou13/github-readme-stats)
