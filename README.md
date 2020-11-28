@@ -49,6 +49,8 @@ Good morning everyone, i'm Cyrille, a 35 years future full-stack developer. I'm 
 ![Figma](https://img.shields.io/badge/-Figma-fff?&logo=Figma)
 
 ---
+[![Umair's github stats](https://github-readme-stats.vercel.app/api?username=Cissou13&show_icons=true&line_height=21&show_icons=true&theme=vue)](https://github.com/umairarshadbutt/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cissou13&show_icons=true&layout=compact&theme=vue)](https://github.com/umairarshadbutt/github-readme-stats)
 
 
 <!--END_SECTION:waka-->
@@ -58,6 +60,8 @@ Good morning everyone, i'm Cyrille, a 35 years future full-stack developer. I'm 
 <p align="center">
    &emsp;
   <a href="https://www.linkedin.com/in/cyrille-fabre/" rel="nofollow" target="_blank" >
-    <img src="https://img.icons8.com/ios-filled/256/000000/linkedin.svg" width="26px"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="26px"/>
   </a>
+ &emsp;
+ <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" width="26px" />
 </p>
