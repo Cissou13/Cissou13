@@ -86,7 +86,7 @@ Good morning everyone, i'm Cyrille, a 35 years future full-stack developer. I'm 
 <img src="https://img.shields.io/badge/-Github-fff?style=plastic?&logo=Github&logoColor=181717" alt="Github" style="vertical-align:top; margin:4px" />
 <img src="https://img.shields.io/badge/-Postman-fff?style=plastic&logo=Postman" alt="Postman" style="vertical-align:top; margin:4px" />
 <img src="https://img.shields.io/badge/-Figma-fff?style=plastic?&logo=Figma" alt="Figma" style="vertical-align:top; margin:4px" />
-<img src="https://img.shields.io/badge/Windows--fff?style=plastic&logo=Windows&logoColor=000" alt="windows" style="vertical-align:top; margin:4px"/>
+<img src="https://img.shields.io/badge/Windows-003399?style=plastic?&logo=windows-xp&logoColor=white" alt="windows" style="vertical-align:top; margin:4px"/>
  </p>
 
 ---
