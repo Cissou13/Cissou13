@@ -40,8 +40,7 @@ Good morning everyone, i'm Cyrille, a 35 years future full-stack developer. I'm 
 <p align="center">
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react" style="vertical-align:top; margin:4px" />
 <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" alt="react-router" style="vertical-align:top; margin:4px" />
-<img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white
-" alt="mySql" style="vertical-align:top; margin:4px" />
+<img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="mySql" style="vertical-align:top; margin:4px" />
 
  </p>
 
