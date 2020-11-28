@@ -65,8 +65,8 @@ Good morning everyone, i'm Cyrille, a 35 years future full-stack developer. I'm 
 <p align="center">
    &emsp;
   <a href="https://www.linkedin.com/in/cyrille-fabre/" rel="nofollow" target="_blank" >
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="26px"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="100px"/>
   </a>
  &emsp;
- <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" width="26px" />
+ <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" width="100px" />
 </p>
