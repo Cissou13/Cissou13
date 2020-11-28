@@ -28,15 +28,13 @@ Good morning everyone, i'm Cyrille, a 35 years future full-stack developer. I'm 
 
 ### Languages
 
-![HTML](https://img.shields.io/badge/-HTML5-fff?&logo=HTML5)
-![CSS](https://img.shields.io/badge/-CSS-fff?&logo=CSS3&logoColor=1572B6)
-![JavaScript](https://img.shields.io/badge/-JavaScript-fff?&logo=JavaScript&logoColor=ddc508)
+<img src="https://github.com/Cissou13/Cissou13/blob/main/assets/svg/dev/languages/html.svg" alt="js" style="vertical-align:top; margin:4px">
 <img src="https://github.com/Cissou13/Cissou13/blob/main/assets/svg/dev/languages/js.svg" alt="js" style="vertical-align:top; margin:4px">
 
 
 ### 😄💻 Frameworks & Libs
 
-![ReactJS](https://img.shields.io/badge/-ReactJS-fff?&logo=React)
+<img src="https://github.com/Cissou13/Cissou13/blob/main/assets/svg/dev/frameworks/react.svg" alt="js" style="vertical-align:top; margin:4px">
 ![Nodejs](https://img.shields.io/badge/-NodeJs-fff?&logo=node.js)
 ![MySQL](https://img.shields.io/badge/-MySQL-fff?&logo=MySQL)
 
@@ -49,8 +47,8 @@ Good morning everyone, i'm Cyrille, a 35 years future full-stack developer. I'm 
 ![Figma](https://img.shields.io/badge/-Figma-fff?&logo=Figma)
 
 ---
-[![Umair's github stats](https://github-readme-stats.vercel.app/api?username=Cissou13&show_icons=true&line_height=21&show_icons=true&theme=vue)](https://github.com/umairarshadbutt/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cissou13&show_icons=true&layout=compact&theme=vue)](https://github.com/umairarshadbutt/github-readme-stats)
+[![Umair's github stats](https://github-readme-stats.vercel.app/api?username=Cissou13&show_icons=true&line_height=21&show_icons=true&theme=vue)](https://github.com/Cissou13/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cissou13&show_icons=true&layout=compact&theme=vue)](https://github.com/Cissou13/github-readme-stats)
 
 
 <!--END_SECTION:waka-->
