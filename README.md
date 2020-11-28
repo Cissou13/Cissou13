@@ -31,7 +31,7 @@ Good morning everyone, i'm Cyrille, a 35 years future full-stack developer. I'm 
 ![HTML](https://img.shields.io/badge/-HTML5-fff?&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS-fff?&logo=CSS3&logoColor=1572B6)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-fff?&logo=JavaScript&logoColor=ddc508)
-<img src="https://github.com/Cissou13/Cissou13/tree/main/assets/svg/dev/languages/js.svg" alt="js" style="vertical-align:top; margin:4px">
+<img src="https://github.com/Cissou13/Cissou13/main/assets/svg/dev/languages/js.svg" alt="js" style="vertical-align:top; margin:4px">
 
 
 ### 😄💻 Frameworks & Libs
