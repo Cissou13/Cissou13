@@ -33,11 +33,11 @@ Good morning everyone, i'm Cyrille, a 35 years future full-stack developer. I'm 
 </p>
 
 ### 😄💻 Frameworks & Libs
-<p align="center">
+
 ![Reactjs](https://img.shields.io/badge/-NodeJs-fff?&logo=react.js)
 ![Nodejs](https://img.shields.io/badge/-NodeJs-fff?&logo=node.js)
 ![MySQL](https://img.shields.io/badge/-MySQL-fff?&logo=MySQL)
- </p>
+
 
 
 ### 🔧 TOOLS
